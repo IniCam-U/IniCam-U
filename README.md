@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @IniCam-U
-- 👀 I’m interested in Health Data Analytics
+- 👋 Hi, I’m @Ini_Umoh
+- 👀 I’m interested in Data Analytics with special focus in healthcare
 - 🌱 I’m currently learning SQL, R
-- 💞️ I’m looking to collaborate on health related projects
+- 💞️ I’m looking to collaborate on DA projects
 - 📫 You can reach me on umohini.iu@gmail.com
 
 <!---
